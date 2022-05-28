@@ -1,1 +1,1 @@
-A script that prints the effective username of the current user
+A script that adds execution permission to the owner, the group owner and the other users, to the file hello
