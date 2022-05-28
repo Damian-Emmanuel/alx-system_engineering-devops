@@ -1,1 +1,1 @@
-A script that adds execute permissions to the owner and the group owner, and read permissions to other users, to the file hello
+A script that switches the current user to the user betty
