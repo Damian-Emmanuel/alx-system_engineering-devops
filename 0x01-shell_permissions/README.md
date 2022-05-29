@@ -1,1 +1,1 @@
-A script that creates a directory called my_dir with permmisions 751 in the working directory
+A script that changes the group to school for the file hello
