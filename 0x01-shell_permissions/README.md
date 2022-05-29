@@ -1,1 +1,1 @@
-A script that changes the group to school for the file hello
+A script that sets the mode of the file
