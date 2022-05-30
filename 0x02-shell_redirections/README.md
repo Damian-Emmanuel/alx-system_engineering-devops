@@ -1,1 +1,1 @@
-Script that prints Hello, World, followed by a new line to the standdard output
+Display the content of the /etc/passwd
