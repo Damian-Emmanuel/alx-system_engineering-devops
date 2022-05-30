@@ -1,1 +1,1 @@
-Display the first 10 lines /etc/passwd
+Display the first lines of /etc/passwd
